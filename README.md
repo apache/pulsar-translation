@@ -25,7 +25,7 @@ Pulsar 的翻译项目放在 [Apache Pulsar Crowdin](https://crowdin.com/project
 
 根据自己对 Pulsar 及相关技术的理解，优先选择自己熟悉、尚未翻译的内容进行翻译。
 
-选择要翻译的文件后，查看 [Translation schedule](https://github.com/streamnative/translation-guidelines/schedule) 中是否有其他人在翻译这个文件。如果已经有，可以重新选择；如果没有，参考 [PR 模版](https://github.com/streamnative/translation-guidelines/blob/master/.github/PULL_REQUEST_TEMPLATE.md)，把自己要翻译的文件和姓名分别添加进 [Translation schedule](https://github.com/streamnative/translation-guidelines/schedule)，提交 PR。
+选择要翻译的文件后，查看 [Translation schedule](https://github.com/apache/pulsar-translation/blob/master/schedule.md) 中是否有其他人在翻译这个文件。如果已经有，可以重新选择；如果没有，创建一个 PR，把自己要翻译的文件和姓名分别添加进 [Translation schedule](https://github.com/apache/pulsar-translation/blob/master/schedule.md)，提交 PR。
 
 ### 打标签
 - Reviewers：无需设置，负责人会自动收到您提交的 PR 申请，会安排人员处理。
@@ -158,4 +158,4 @@ Masakazu shares a more detailed [swimlane](https://swimlanes.io/d/8L04SRASw) for
 语言尽量简单、通顺，翻译完后，读一遍，适合中国人的阅读习惯。英语中有时会用从句，翻译中文时，尽量拆成几个简单的句子。
 
 ## Join contributors
-When your first pull request is merged, feel free to add your name to the [contributor list](https://github.com/streamnative/translation-guidelines/blob/master/CONTRIBUTORS.md). 
+When your first pull request is merged, feel free to add your name to the [contributor list](https://github.com/apache/pulsar-translation/blob/master/CONTRIBUTORS.md). 
