@@ -38,9 +38,3 @@ io-redis | Bu Xing | | In Progress
 io-solr | Bu Xing | | In Progress
 io-tcp | Bu Xing | | In Progress
 task #26 #28 | 0 contributors
-
-
-Tutorial for Using Debezium Connectors With Apache Pulsar | Jennifer | Anonymitaet | Published
-When Flink & Pulsar Come Together | Susan | Sijie & Jennifer & Anonymitaet | Published
-Apache Pulsar Blackpaper | Yong & Susan & Qingying | Jennifer & Anonymitaet & Jia Zhai | TBD
-Getui Use Case | Qingying | | TBD
