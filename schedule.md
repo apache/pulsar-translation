@@ -1,5 +1,8 @@
 # Translation schedule
 
+> Note  
+> Status: In progress / Translated / Approved    
+> When a topic is selected and translated by a translator, you can choose other topics.
 
 Topic | Translator | Reviewer | Status 
 :-----|:-----------|:---------|:------
@@ -38,4 +41,3 @@ io-redis | Bu Xing | | In Progress
 io-solr | Bu Xing | | In Progress
 io-tcp | Bu Xing | | In Progress
 security-extending | bilahepan(Tianci Gao) | | In Progress
-task #26 | 0 contributors
