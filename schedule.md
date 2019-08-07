@@ -18,7 +18,7 @@ concepts-messaging | liyiming 2002 | | Translated
 cookbooks-bookkeepermetadata | bilahepan(Tianci Gao) | | In Progress
 cookbooks-deduplication | bilahepan(Tianci Gao) | | In Progress
 cookbooks-message-queue | bilahepan(Tianci Gao) & Ying Zhan | Susan97 | Approved
-cookbooks-partitioned | bilahepan(Tianci Gao) |Jennifer Huang | Approved 
+cookbooks-partitioned | bilahepan(Tianci Gao) | Jennifer Huang | Approved 
 cookbooks-retention-expiry | bilahepan(Tianci Gao) | | Translated
 deploy-bare-metal | bilahepan(Tianci Gao) | | Translated
 deploy-kubernetes | KarenGirl | | In Progress 
