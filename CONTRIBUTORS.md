@@ -4,7 +4,7 @@
 - Francis Du (https://github.com/francis-du)
 - Jennifer Huang (https://github.com/Jennifer88huang)
 - Jia Zhai (https://github.com/jiazhai)
-- Lei Yang ()
+- Lei Yang (https://github.com/yangleimiao)
 - Sijie Guo (https://github.com/sijie)
 - Susan (https://github.com/Ssssssusan)
 - Tianci Gao (https://github.com/bilahepan)
