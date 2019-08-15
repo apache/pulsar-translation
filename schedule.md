@@ -15,7 +15,7 @@ admin-load-distribution | bilahepan(Tianci Gao) | | In Progress
 client-libraries-cpp | liyiming2002 | | In Progress
 client-libraries-go | liyiming2002 | | In Progress
 client-libraries-java | liyiming2002 | | In Progress
-client-libraries-python | Bu Xing & Francis Du & liyiming2002 | | Translated
+client-libraries-python | Bu Xing & Francis Du & liyiming2002 | Irene| Translated
 client-libraries-websocket | Francis Du & liyiming2002 | | Translated
 concepts-messaging | liyiming 2002 | | Translated
 cookbooks-bookkeepermetadata | bilahepan(Tianci Gao) | | In Progress
