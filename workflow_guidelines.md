@@ -8,7 +8,7 @@ You can find [Apache Pulsar translation project](https://crowdin.com/project/apa
 Here are the steps of the translation workflow:
 
 ### Join the Pulsar translation project
-1. Sign in [Apache Pulsar Crowdin project](https://crowdin.com/project/apache-pulsar). If you don’t have a Crowdin account, on the crowdin page, click **SIGN UP** at the upper right corner and fill in the information to create an account. If you have a GitHub, Facebook, Google, Twitter or Gitlab account, you can link any of them to sign in.
+1. Sign in [Apache Pulsar Crowdin project](https://crowdin.com/project/apache-pulsar). If you don’t have a Crowdin account, on the crowdin page, click **SIGN UP** at the upper right corner and fill in the information to create an account. If you have a GitHub, Facebook, Google, Twitter, or Gitlab account, you can link any of them to sign in.
 
 
 2. After signing in, click **Join** at the upper right corner on the crowdin page.
