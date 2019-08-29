@@ -13,7 +13,7 @@ Here are the steps of the translation workflow:
 
 2. After signing in, click **Join** at the upper right corner on the crowdin page.
 > #### Note  
-> The source language of Pulsar files is English. The target languages of our translation projects are Chinese, French and Japanese.  
+> The source language of Pulsar files is English. The target languages of our translation projects are Chinese, French, and Japanese.  
 > Select a language. Take the **Simplified Chinese Translation Project** as an example.
 
 
@@ -31,12 +31,12 @@ Files in **master > docs** are the source files of the latest versions on Pulsar
 
 Based on your knowledge about Pulsar, you can translate the content that you are familiar with first.
 
-After choosing the file to translate, please check it out in [Translation schedule](https://github.com/apache/pulsar-translation/blob/master/schedule.md). If you find someone is translating this file, please choose another one. If not, you can create a PR and add the file  name to [Translation schedule](https://github.com/apache/pulsar-translation/blob/master/schedule.md). Then you can submit the PR.
+After choosing the file to translate, please check it out in [Translation schedule](https://github.com/apache/pulsar-translation/blob/master/schedule.md). If you find someone is translating this file, please choose another one. If not, you can create a PR and add the file name to [Translation schedule](https://github.com/apache/pulsar-translation/blob/master/schedule.md). Then you can submit the PR.
 
 ### Label Setting
-- Reviewers : No need to set up. Reviewers will receive the notification of PR you submitted automatically and will designate someone to handle it.
-- Assignees : Choose yourself to receive notifications.
-- Label : Choose “translation”.
+- Reviewers: No need to set up. Reviewers will receive the notification of PR you submitted automatically and will designate someone to handle it.
+- Assignees: Choose yourself to receive notifications.
+- Label: Choose “translation”.
 
 ### Translating
 While translating, you don’t need to translate the ID of the file and keep the tag the same as the source file.
@@ -60,7 +60,7 @@ After receiving the comment, reviewers start to review. The reviewer can make si
 
 If there are no problems, the reviewer will approve this PR and merge it.
 
-The following image gives a general workflow. The workflow source file is available  at [lucidchat](https://www.lucidchart.com/invitations/accept/0ebad9d8-ddf3-4a92-8ee6-e813a9bc58ff).   
+The following image gives a general workflow. The workflow source file is available at [lucidchat](https://www.lucidchart.com/invitations/accept/0ebad9d8-ddf3-4a92-8ee6-e813a9bc58ff).   
 Masakazu shares a more detailed [swimlane](https://swimlanes.io/d/8L04SRASw) for the workflow. 
 ![](media/translation-workflow.jpg)
 
@@ -96,7 +96,7 @@ In order to improve the readability of Chinese and English mixed documents, you 
 
 Please use Chinese punctuations in Chinese documents: You should use “、”  rather than  “，” when you translate English into Chinese. For example, “Kubernetes, Meso, Docker“ should be translated to “Kubernetes、Mesos、Docker“. Vice versa.
 
-Dealing with different items : Please use (。) at the end of one sentence and use (；) at the end of one item. If each item involves one sentence, please use (。) at the end of each item.
+Dealing with different items: Please use (。) at the end of one sentence and use (；) at the end of one item. If each item involves one sentence, please use (。) at the end of each item.
 
  ![](media/example-comma.jpg)
 
