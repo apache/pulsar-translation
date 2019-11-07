@@ -1,4 +1,4 @@
-# Translation schedule
+# # Translation schedule
 
 > Note  
 > Status: In progress / Translated / Approved    
@@ -41,3 +41,25 @@ io-redis | Bu Xing | | In Progress
 io-solr | Bu Xing | | In Progress
 io-tcp | Bu Xing | | In Progress
 security-extending | bilahepan(Tianci Gao) | | In Progress
+getting-started-standalone（对应Run Pulsar locally） | | | To Do
+getting-started-docker | | | To Do
+getting-started-clients | | | To Do
+schema-get-started | | | To Do
+schema-understand | | | To Do
+schema-evolution-compatibility | | | To Do
+schema-manage | | | To Do
+functions-overview | | | To Do
+functions-worker | | | To Do
+functions-runtime | | | To Do
+functions-develop | | | To Do
+functions-debug | | | To Do
+functions-deploy | | | To Do
+functions-cli | | | To Do
+io-overview | | | To Do
+io-quickstart（对应 get started） | | | To Do
+io-use | | | To Do
+io-debug | | | To Do
+io-connectors | | | To Do
+io-cdc | | | To Do
+io-develop | | | To Do
+io-cli | | | To Do
