@@ -1,4 +1,4 @@
-# # Translation schedule
+# Translation schedule
 
 > Note  
 > Status: In progress / Translated / Approved    
