@@ -59,8 +59,8 @@ io-overview | | | To Do
 io-quickstart (Correspond 'Get started') | | | To Do
 io-use | | | To Do
 io-debug | | | To Do
-io-connectors | SylviaBABY | | To Do
-io-cdc | SylviaBABY | | To Do
+io-connectors | SylviaBABY | | In Progress
+io-cdc | SylviaBABY | | In Progress
 io-develop | | | To Do
 io-cli | | | To Do
 io-aerospike-sink | | | To Do
