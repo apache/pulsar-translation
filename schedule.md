@@ -41,7 +41,7 @@ io-redis | Bu Xing | | In Progress
 io-solr | Bu Xing | | In Progress
 io-tcp | Bu Xing | | In Progress
 security-extending | bilahepan(Tianci Gao) | | In Progress
-getting-started-standalone（对应Run Pulsar locally） | | | To Do
+getting-started-standalone (Correspond 'Run Pulsar locally') | | | To Do
 getting-started-docker | | | To Do
 getting-started-clients | | | To Do
 schema-get-started | | | To Do
@@ -56,10 +56,36 @@ functions-debug | | | To Do
 functions-deploy | | | To Do
 functions-cli | | | To Do
 io-overview | | | To Do
-io-quickstart（对应 get started） | | | To Do
+io-quickstart (Correspond 'Get started') | | | To Do
 io-use | | | To Do
 io-debug | | | To Do
-io-connectors | | | To Do
-io-cdc | | | To Do
+io-connectors | SylviaBABY | | To Do
+io-cdc | SylviaBABY | | To Do
 io-develop | | | To Do
 io-cli | | | To Do
+io-aerospike-sink | | | To Do
+io-canal-source | | | To Do
+io-cassandra-sink | | | To Do
+io-cdc-canal | | | To Do
+io-cdc-debezium | | | To Do
+io-debezium-source | | | To Do
+io-elasticsearch-sink | | | To Do
+io-file-source | | | To Do
+io-flume-sink | | | To Do
+io-flume-source | | | To Do
+io-hbase | | | To Do
+io-hdfs2-sink | | | To Do
+io-hdfs3-sink | | | To Do
+io-influxdb-sink | | | To Do
+io-jdbc-sink | | | To Do
+io-kafka-sink | | | To Do
+io-kafka-source | | | To Do
+io-kinesis-sink | | | To Do
+io-kinesis-source | | | To Do
+io-mongo-sink | | | To Do
+io-netty-source | | | To Do
+io-rabbitmq-sink | | | To Do
+io-rabbitmq-source | | | To Do
+io-redis-sink | | | To Do
+io-solr-sink | | | To Do
+io-twitter-source | | | To Do
