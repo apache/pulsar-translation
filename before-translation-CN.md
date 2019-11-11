@@ -28,30 +28,25 @@
 
 ![](media/before-3.png)
 
-PS: 与官网顺序同步的文档，截止到 io-cli，也就是如下图所示。cli以后的文档内容，均为之前文章里插入的链接文档，可以自行选择翻译。
+PS: 与官网顺序同步的文档，截止到 io-cli，也就是如下图所示。cli 以后的文档内容，均为之前文章里插入的链接文档，可以自行选择翻译。
 
 ![](media/before-4.png)
 
 ## 🎉成为 Contributor/ Committer
-当你开始翻译后，记得去[schedule](https://github.com/apache/pulsar-translation/blob/master/schedule.md)修改文档所属人员名称（一般是你的 GitHub 账户名称）和文章状态，并提交修改「Schedule」的 PR 。
+当你开始翻译后，记得去 [schedule](https://github.com/apache/pulsar-translation/blob/master/schedule.md) 修改文档所属人员名称（你的 GitHub 账户名称）和文章状态，并提交修改「Schedule」的 PR 。
 
 ![](media/before-5.png)
 
-之后可以去[CONTRIBUTORS](https://github.com/apache/pulsar-translation/blob/master/CONTRIBUTORS.md)把自己的名字加上。
+之后可以在 [CONTRIBUTORS](https://github.com/apache/pulsar-translation/blob/master/CONTRIBUTORS.md) 中加上自己的名字。
 
 ![](media/before-6.png)
 
-当然，如果你提交的数量足够多，也会在后期有机会申请成为 Pulsar 的 committer 。
+您贡献得越多，收获就会越多，我们衷心希望您能快快加入 Pulsar contributors club。
 
 ##  🎁周边礼物
-当然，如果你翻译的足够多，我们也会主动联系你，给你发放有关 Apache Pulsar 的相关周边。比如卫衣、书包、T恤等等，都有可能哦。
+如果你翻译的数量和质量达标，我们会主动和您联系，为您发放有关 Apache Pulsar 的相关周边。比如卫衣、书包、T恤等等，都有可能哦。
 
 ---
-所以，只要你愿意翻译，你就有各种收获。以后别人问你参与过什么项目，你就可以拿出自己参与的「Apache Pulsar 的项目」啦。
+我们希望大家在贡献的同时，有所收获，快乐成长。在必要的时候，可以用您参与的「Apache Pulsar 的项目」来展示和证明自己的才华。
 
-期待你成为 Apache Pulsar 的 Contributor，让我们一起为开源社区贡献吧！
-
-
-
-
-
+期待你成为 Apache Pulsar 的 Contributor，让我们一起为 Apache Pulsar 开源社区贡献吧！ 
