@@ -54,7 +54,7 @@ functions-runtime | | | To Do
 functions-develop | | | To Do
 functions-debug | | | To Do
 functions-deploy | | | To Do
-functions-cli | | | To Do
+functions-cli | SylviaBABY | | In Progress
 io-overview | | | To Do
 io-quickstart (Correspond 'Get started') | | | To Do
 io-use | | | To Do
