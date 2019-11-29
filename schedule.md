@@ -44,10 +44,10 @@ security-extending | bilahepan(Tianci Gao) | | In Progress
 getting-started-standalone (Correspond 'Run Pulsar locally') | | | To Do
 getting-started-docker | SylviaBABY | | In Progress
 getting-started-clients | SylviaBABY | | In Progress
-schema-get-started | | | To Do
-schema-understand | | | To Do
-schema-evolution-compatibility | | | To Do
-schema-manage | | | To Do
+schema-get-started | SylviaBABY | | In Progress
+schema-understand | SylviaBABY | | In Progress
+schema-evolution-compatibility | SylviaBABY | | In Progress
+schema-manage | SylviaBABY | | In Progress
 functions-overview | SylviaBABY | | In Progress
 functions-worker | SylviaBABY | | In Progress
 functions-runtime | SylviaBABY | | In Progress
