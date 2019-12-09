@@ -53,7 +53,7 @@ functions-worker | sijia-w | | In Progress
 functions-runtime | | | To Do
 functions-develop | sijia-w | | In Progress
 functions-debug | | | To Do
-functions-deploy | sijia-w | | To Do
+functions-deploy | sijia-w | | In Progress
 functions-cli | | | To Do
 io-overview | | | To Do
 io-quickstart (Correspond 'Get started') | | | To Do
