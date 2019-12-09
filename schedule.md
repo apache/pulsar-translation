@@ -42,19 +42,19 @@ io-solr | Bu Xing | | In Progress
 io-tcp | Bu Xing | | In Progress
 security-extending | bilahepan(Tianci Gao) | | In Progress
 getting-started-standalone (Correspond 'Run Pulsar locally') | | | To Do
-getting-started-docker | | | To Do
-getting-started-clients | | | To Do
-schema-get-started | | | To Do
-schema-understand | | | To Do
-schema-evolution-compatibility | | | To Do
-schema-manage | | | To Do
-functions-overview | | | To Do
-functions-worker | | | To Do
-functions-runtime | | | To Do
-functions-develop | | | To Do
-functions-debug | | | To Do
-functions-deploy | | | To Do
-functions-cli | | | To Do
+getting-started-docker | SylviaBABY | | In Progress
+getting-started-clients | SylviaBABY | | In Progress
+schema-get-started | SylviaBABY | | In Progress
+schema-understand | SylviaBABY | | In Progress
+schema-evolution-compatibility | SylviaBABY | | In Progress
+schema-manage | SylviaBABY | | In Progress
+functions-overview | SylviaBABY | | In Progress
+functions-worker | SylviaBABY | | In Progress
+functions-runtime | SylviaBABY | | In Progress
+functions-develop | SylviaBABY | | In Progress
+functions-debug | SylviaBABY | | In Progress
+functions-deploy | SylviaBABY | | In Progress
+functions-cli | SylviaBABY | | In Progress
 io-overview | | | To Do
 io-quickstart (Correspond 'Get started') | | | To Do
 io-use | | | To Do
