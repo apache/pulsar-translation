@@ -49,9 +49,9 @@ schema-understand | | | To Do
 schema-evolution-compatibility | | | To Do
 schema-manage | | | To Do
 functions-overview | | | To Do
-functions-worker | | | To Do
+functions-worker | sijia-w | | In Progress
 functions-runtime | | | To Do
-functions-develop | | | To Do
+functions-develop | sijia-w | | In Progress
 functions-debug | | | To Do
 functions-deploy | sijia-w | | To Do
 functions-cli | | | To Do
@@ -61,7 +61,7 @@ io-use | | | To Do
 io-debug | | | To Do
 io-connectors | SylviaBABY | | In Progress
 io-cdc | SylviaBABY | | In Progress
-io-develop | | | To Do
+io-develop | sijia-w | | In Progress
 io-cli | | | To Do
 io-aerospike-sink | | | To Do
 io-canal-source | | | To Do
