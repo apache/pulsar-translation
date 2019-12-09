@@ -11,7 +11,7 @@ admin api permissions | liyiming 2002 |  | Translated
 admin-api-partitioned-topics | bilahepan(Tianci Gao) | Jennifer Huang | Approved 
 administration-load-balance | bilahepan(Tianci Gao) | | In Progress
 administration-proxy | bilahepan(Tianci Gao) | Jennifer Huang | Approved
-administration-upgrade | July-liu | | To Do
+administration-upgrade | July-liu | | Done
 admin-load-distribution | bilahepan(Tianci Gao) | | In Progress
 client-libraries-cpp | liyiming2002 | | In Progress
 client-libraries-go | liyiming2002 | | In Progress
