@@ -64,7 +64,7 @@ io-cdc | SylviaBABY | | In Progress
 io-develop | sijia-w | | In Progress
 io-cli | | | To Do
 io-aerospike-sink | | | To Do
-io-canal-source | | | To Do
+io-canal-source | sijia-w | | In Progress
 io-cassandra-sink | | | To Do
 io-cdc-canal | | | To Do
 io-cdc-debezium | | | To Do
