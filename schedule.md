@@ -49,11 +49,11 @@ schema-understand | | | To Do
 schema-evolution-compatibility | | | To Do
 schema-manage | | | To Do
 functions-overview | | | To Do
-functions-worker | sijia-w | | In Progress
+functions-worker | sijia-w | | Translated
 functions-runtime | | | To Do
-functions-develop | sijia-w | | In Progress
+functions-develop | sijia-w | | Translated
 functions-debug | | | To Do
-functions-deploy | sijia-w | | In Progress
+functions-deploy | sijia-w | | Translated
 functions-cli | | | To Do
 io-overview | | | To Do
 io-quickstart (Correspond 'Get started') | | | To Do
@@ -61,10 +61,10 @@ io-use | | | To Do
 io-debug | | | To Do
 io-connectors | SylviaBABY | | In Progress
 io-cdc | SylviaBABY | | In Progress
-io-develop | sijia-w | | In Progress
+io-develop | sijia-w | | Translated
 io-cli | | | To Do
 io-aerospike-sink | | | To Do
-io-canal-source | | | To Do
+io-canal-source | sijia-w | | In Progress
 io-cassandra-sink | | | To Do
 io-cdc-canal | | | To Do
 io-cdc-debezium | | | To Do
