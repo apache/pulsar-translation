@@ -66,7 +66,7 @@ io-cli | | | To Do
 io-aerospike-sink | SylviaBABY | | Translated
 io-canal-source | | | To Do
 io-cassandra-sink | SylviaBABY | | Translated
-io-cdc-debezium | | | To Do
+io-cdc-debezium | SylviaBABY | | Translated
 io-debezium-source | SylviaBABY | | Translated
 io-elasticsearch-sink | | | To Do
 io-file-source | SylviaBABY | | Translated
