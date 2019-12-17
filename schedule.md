@@ -72,9 +72,9 @@ io-elasticsearch-sink | | | To Do
 io-file-source | SylviaBABY | | Translated
 io-flume-sink | | | To Do
 io-flume-source | SylviaBABY | | Translated
-io-hdfs2-sink | | | To Do
-io-hdfs3-sink | | | To Do
-io-influxdb-sink | | | To Do
+io-hdfs2-sink | SylviaBABY | | Translated
+io-hdfs3-sink | SylviaBABY | | Translated
+io-influxdb-sink | SylviaBABY | | Translated
 io-jdbc-sink | | | To Do
 io-kafka-sink | | | To Do
 io-kafka-source | | | To Do
