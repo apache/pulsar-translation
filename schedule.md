@@ -49,12 +49,12 @@ schema-understand | SylviaBABY | | Translated
 schema-evolution-compatibility | SylviaBABY | | Translated
 schema-manage | SylviaBABY | | Translated
 functions-overview | SylviaBABY | | In Progress
-functions-worker | SylviaBABY | | In Progress
+functions-worker | SylviaBABY | | Translated
 functions-runtime | SylviaBABY | | In Progress
 functions-develop | SylviaBABY | | In Progress
-functions-debug | SylviaBABY | | In Progress
-functions-deploy | SylviaBABY | | In Progress
-functions-cli | SylviaBABY | | In Progress
+functions-debug | SylviaBABY | | Translated
+functions-deploy | | | In Progress
+functions-cli | SylviaBABY | | Translated
 io-overview | | | To Do
 io-quickstart (Correspond 'Get started') | | | To Do
 io-use | | | To Do
@@ -71,8 +71,7 @@ io-debezium-source | SylviaBABY | | Translated
 io-elasticsearch-sink | | | To Do
 io-file-source | SylviaBABY | | Translated
 io-flume-sink | | | To Do
-io-flume-source | | | To Do
-io-hbase | | | To Do
+io-flume-source | SylviaBABY | | Translated
 io-hdfs2-sink | | | To Do
 io-hdfs3-sink | | | To Do
 io-influxdb-sink | | | To Do
