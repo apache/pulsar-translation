@@ -42,12 +42,12 @@ io-solr | Bu Xing | | In Progress
 io-tcp | Bu Xing | | In Progress
 security-extending | bilahepan(Tianci Gao) | | In Progress
 getting-started-standalone (Correspond 'Run Pulsar locally') | | | To Do
-getting-started-docker | SylviaBABY | | In Progress
-getting-started-clients | SylviaBABY | | In Progress
-schema-get-started | SylviaBABY | | In Progress
-schema-understand | SylviaBABY | | In Progress
-schema-evolution-compatibility | SylviaBABY | | In Progress
-schema-manage | SylviaBABY | | In Progress
+getting-started-docker | SylviaBABY | | Translated
+getting-started-clients | SylviaBABY | | Translated
+schema-get-started | SylviaBABY | | Translated
+schema-understand | SylviaBABY | | Translated
+schema-evolution-compatibility | SylviaBABY | | Translated
+schema-manage | SylviaBABY | | Translated
 functions-overview | SylviaBABY | | In Progress
 functions-worker | SylviaBABY | | In Progress
 functions-runtime | SylviaBABY | | In Progress
@@ -63,12 +63,11 @@ io-connectors | SylviaBABY | | In Progress
 io-cdc | SylviaBABY | | In Progress
 io-develop | | | To Do
 io-cli | | | To Do
-io-aerospike-sink | | | To Do
+io-aerospike-sink | SylviaBABY | | Translated
 io-canal-source | | | To Do
-io-cassandra-sink | | | To Do
-io-cdc-canal | | | To Do
+io-cassandra-sink | SylviaBABY | | Translated
 io-cdc-debezium | | | To Do
-io-debezium-source | | | To Do
+io-debezium-source | SylviaBABY | | Translated
 io-elasticsearch-sink | | | To Do
 io-file-source | | | To Do
 io-flume-sink | | | To Do
