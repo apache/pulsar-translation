@@ -69,7 +69,7 @@ io-cassandra-sink | SylviaBABY | | Translated
 io-cdc-debezium | | | To Do
 io-debezium-source | SylviaBABY | | Translated
 io-elasticsearch-sink | | | To Do
-io-file-source | | | To Do
+io-file-source | SylviaBABY | | Translated
 io-flume-sink | | | To Do
 io-flume-source | | | To Do
 io-hbase | | | To Do
