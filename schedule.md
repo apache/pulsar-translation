@@ -82,8 +82,8 @@ io-kinesis-sink | | | To Do
 io-kinesis-source | | | To Do
 io-mongo-sink | | | To Do
 io-netty-source | | | To Do
-io-rabbitmq-sink | | | To Do
-io-rabbitmq-source | | | To Do
-io-redis-sink | | | To Do
-io-solr-sink | | | To Do
-io-twitter-source | | | To Do
+io-rabbitmq-sink | SylviaBABY | | Translated
+io-rabbitmq-source | SylviaBABY | | Translated
+io-redis-sink | SylviaBABY | | Translated
+io-solr-sink | SylviaBABY | | Translated
+io-twitter-source | SylviaBABY | | Translated
