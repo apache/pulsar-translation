@@ -55,7 +55,7 @@ functions-develop | SylviaBABY | | In Progress
 functions-debug | SylviaBABY | | In Progress
 functions-deploy | SylviaBABY | | In Progress
 functions-cli | SylviaBABY | | In Progress
-io-overview | | | To Do
+io-overview | helight | | In Progress
 io-quickstart (Correspond 'Get started') | | | To Do
 io-use | | | To Do
 io-debug | | | To Do
