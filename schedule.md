@@ -57,7 +57,7 @@ functions-deploy | | | In Progress
 functions-cli | SylviaBABY | | Translated
 io-overview | | | To Do
 io-quickstart (Correspond 'Get started') | | | To Do
-io-use | | | To Do
+io-use | SylviaBABY | | Translated
 io-debug | | | To Do
 io-connectors | SylviaBABY | | In Progress
 io-cdc | SylviaBABY | | In Progress
