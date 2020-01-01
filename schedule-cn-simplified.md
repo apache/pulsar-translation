@@ -1,4 +1,4 @@
-# Translation schedule
+# Chinese Simplified translation schedule
 
 > Note  
 > Status: In progress / Translated / Approved    
