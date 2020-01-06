@@ -41,9 +41,10 @@ io-redis |  | |
 io-solr |  | | 
 io-tcp |  | | 
 security-extending |  | | 
-getting-started-standalone (Correspond 'Run Pulsar locally') | | | 
-getting-started-docker |  | | 
-getting-started-clients |  | | 
+getting-started-pulsar | erhwenkuo | | Translated
+getting-started-standalone (Correspond 'Run Pulsar locally') | erhwenkuo | | Translated
+getting-started-docker | erhwenkuo  | | Translated
+getting-started-clients | erhwenkuo  | | Translated
 schema-get-started |  | | 
 schema-understand |  | | 
 schema-evolution-compatibility |  | | 
