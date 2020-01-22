@@ -27,10 +27,10 @@ deploy-bare-metal | bilahepan(Tianci Gao) | | Translated
 deploy-kubernetes | KarenGirl | | In Progress 
 deploy-monitoring | bilahepan(Tianci Gao) | | In Progress
 developing tools | Susan97 | | In Progress
-functions-api | Luke(ete0918) | | In Progress
-functions-deploying | Luke(ete0918) | | In Progress
-functions-gurantees | Susan97 | | In Progress
-functions-quickstart | KarenGirl | | In Progress
+functions-api | Luke(ete0918) | Deprecated | In Progress
+functions-deploying | Luke(ete0918) | Deprecated | In Progress
+functions-gurantees | Susan97 | Deprecated | In Progress
+functions-quickstart | KarenGirl | Deprecated | In Progress
 io-file | Bu Xing | | In Progress
 io-hbase | Bu Xing | | In Progress
 io-hdfs | Bu Xing | | In Progress
@@ -42,50 +42,48 @@ io-solr | Bu Xing | | In Progress
 io-tcp | Bu Xing | | In Progress
 security-extending | bilahepan(Tianci Gao) | | In Progress
 getting-started-standalone (Correspond 'Run Pulsar locally') | | | To Do
-getting-started-docker | SylviaBABY | | In Progress
-getting-started-clients | SylviaBABY | | In Progress
-schema-get-started | SylviaBABY | | In Progress
-schema-understand | SylviaBABY | | In Progress
-schema-evolution-compatibility | SylviaBABY | | In Progress
-schema-manage | SylviaBABY | | In Progress
+getting-started-docker | SylviaBABY | | Translated
+getting-started-clients | SylviaBABY | | Translated
+schema-get-started | SylviaBABY | | Translated
+schema-understand | SylviaBABY | | Translated
+schema-evolution-compatibility | SylviaBABY | | Translated
+schema-manage | SylviaBABY | | Translated
 functions-overview | SylviaBABY | | In Progress
-functions-worker | SylviaBABY | | In Progress
+functions-worker | SylviaBABY | | Translated
 functions-runtime | SylviaBABY | | In Progress
 functions-develop | SylviaBABY | | In Progress
-functions-debug | SylviaBABY | | In Progress
-functions-deploy | SylviaBABY | | In Progress
-functions-cli | SylviaBABY | | In Progress
+functions-debug | SylviaBABY | | Translated
+functions-deploy | | | In Progress
+functions-cli | SylviaBABY | | Translated
 io-overview | | | To Do
 io-quickstart (Correspond 'Get started') | | | To Do
-io-use | | | To Do
-io-debug | | | To Do
+io-use | SylviaBABY | | Translated
+io-debug | SylviaBABY | | Translated
 io-connectors | SylviaBABY | | In Progress
 io-cdc | SylviaBABY | | In Progress
 io-develop | | | To Do
 io-cli | | | To Do
-io-aerospike-sink | | | To Do
-io-canal-source | | | To Do
-io-cassandra-sink | | | To Do
-io-cdc-canal | | | To Do
-io-cdc-debezium | | | To Do
-io-debezium-source | | | To Do
+io-aerospike-sink | SylviaBABY | | Translated
+io-canal-source | SylviaBABY | | Translated
+io-cassandra-sink | SylviaBABY | | Translated
+io-cdc-debezium | SylviaBABY | | Translated
+io-debezium-source | SylviaBABY | | Translated
 io-elasticsearch-sink | | | To Do
-io-file-source | | | To Do
-io-flume-sink | | | To Do
-io-flume-source | | | To Do
-io-hbase | | | To Do
-io-hdfs2-sink | | | To Do
-io-hdfs3-sink | | | To Do
-io-influxdb-sink | | | To Do
-io-jdbc-sink | | | To Do
-io-kafka-sink | | | To Do
-io-kafka-source | | | To Do
-io-kinesis-sink | | | To Do
-io-kinesis-source | | | To Do
-io-mongo-sink | | | To Do
-io-netty-source | | | To Do
-io-rabbitmq-sink | | | To Do
-io-rabbitmq-source | | | To Do
-io-redis-sink | | | To Do
-io-solr-sink | | | To Do
-io-twitter-source | | | To Do
+io-file-source | SylviaBABY | | Translated
+io-flume-sink | SylviaBABY | | Translated
+io-flume-source | SylviaBABY | | Translated
+io-hdfs2-sink | SylviaBABY | | Translated
+io-hdfs3-sink | SylviaBABY | | Translated
+io-influxdb-sink | SylviaBABY | | Translated
+io-jdbc-sink | SylviaBABY | | Translated
+io-kafka-sink | SylviaBABY | | Translated
+io-kafka-source | SylviaBABY | | Translated
+io-kinesis-sink | SylviaBABY | | Translated
+io-kinesis-source | SylviaBABY | | Translated
+io-mongo-sink | SylviaBABY | | Translated
+io-netty-source | SylviaBABY | | Translated
+io-rabbitmq-sink | SylviaBABY | | Translated
+io-rabbitmq-source | SylviaBABY | | Translated
+io-redis-sink | SylviaBABY | | Translated
+io-solr-sink | SylviaBABY | | Translated
+io-twitter-source | SylviaBABY | | Translated
