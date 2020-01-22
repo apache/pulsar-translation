@@ -33,7 +33,7 @@ PS: 与官网顺序同步的文档，截止到 io-cli，也就是如下图所示
 ![](media/before-4.png)
 
 ## 🎉成为 Contributor/ Committer
-当你开始翻译后，记得去[schedule](https://github.com/apache/pulsar-translation/blob/master/schedule.md)修改文档所属人员名称（一般是你的 GitHub 账户名称）和文章状态，并提交修改「Schedule」的 PR 。
+当你开始翻译后，记得去[schedule](https://github.com/apache/pulsar-translation/blob/master/schedule.md)修改文档所属人员名称（一般是你的 GitHub 账户名称）和文章状态，并提交修改「Schedule_zh-CN」的 PR 。
 
 ![](media/before-5.png)
 
