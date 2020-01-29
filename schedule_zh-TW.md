@@ -58,13 +58,13 @@ schema-evolution-compatibility | erhwenkuo | | Translated
 schema-get-started | erhwenkuo | | Translated
 schema-manage | erhwenkuo | | Translated
 schema-understand | erhwenkuo | | Translated
-functions-overview |  | |
-functions-worker |  | |
-functions-runtime |  | |
-functions-develop |  | |
-functions-debug |  | |
-functions-deploy |  | |
-functions-cli |  | |
+functions-overview | erhwenkuo  | | Translated
+functions-worker | erhwenkuo  | | Translated
+functions-runtime | erhwenkuo  | | Translated
+functions-develop | erhwenkuo  | | Translated
+functions-debug | erhwenkuo  | | Translated
+functions-deploy | erhwenkuo  | | Translated
+functions-cli | erhwenkuo  | | Translated
 io-overview | | |
 io-quickstart (Correspond 'Get started') | | |
 io-use | | |
@@ -99,3 +99,7 @@ io-rabbitmq-source | | |
 io-redis-sink | | |
 io-solr-sink | | |
 io-twitter-source | | |
+sql-deployment-configurations | erhwenkuo | | Translated
+sql-getting-started | erhwenkuo | | Translated
+sql-overview | erhwenkuo | | Translated
+sql-rest-api | erhwenkuo | | Translated
