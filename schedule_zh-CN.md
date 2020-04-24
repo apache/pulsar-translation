@@ -27,34 +27,35 @@ deploy-bare-metal | bilahepan(Tianci Gao) | | Translated
 deploy-kubernetes | KarenGirl | | In Progress 
 deploy-monitoring | bilahepan(Tianci Gao) | | In Progress
 developing tools | Susan97 | | In Progress
-functions-api | Luke(ete0918) | | In Progress
-functions-deploying | Luke(ete0918) | | In Progress
-functions-gurantees | Susan97 | | In Progress
-functions-quickstart | KarenGirl | | In Progress
+functions-api | Luke(ete0918) | | Removed by candler
+functions-deploying | Luke(ete0918) | Deprecated
+functions-gurantees | Susan97 | | Deprecated
+functions-quickstart | KarenGirl | | Removed in 2.4.1
 io-file | Bu Xing | | In Progress
-io-hbase | Bu Xing | | In Progress
-io-hdfs | Bu Xing | | In Progress
-io-kafka | KarenGirl | | Translated
-io-netty | Bu Xing | | In Progress
-io-rabbitmq | Bu Xing | | In Progress
-io-redis | Bu Xing | | In Progress
-io-solr | Bu Xing | | In Progress
-io-tcp | Bu Xing | | In Progress
+io-hbase | Bu Xing | | Deprecated
+io-hdfs | Bu Xing | | Deprecated
+io-kafka | KarenGirl | | Deprecated
+io-netty | Bu Xing | | Deprecated
+io-rabbitmq | Bu Xing | | Deprecated
+io-redis | Bu Xing | | Deprecated
+io-solr | Bu Xing | | Deprecated
+io-tcp | Bu Xing | | Deprecated
 security-extending | bilahepan(Tianci Gao) | | In Progress
-getting-started-standalone (Correspond 'Run Pulsar locally') | | | To Do
-getting-started-docker | SylviaBABY | | In Progress
-getting-started-clients | SylviaBABY | | In Progress
-schema-get-started | SylviaBABY | | In Progress
-schema-understand | SylviaBABY | | In Progress
-schema-evolution-compatibility | SylviaBABY | | In Progress
-schema-manage | SylviaBABY | | In Progress
+getting-started-pulsar |  | sijia-w | Approved
+getting-started-standalone (Correspond 'Run Pulsar locally') | | sijia-w | Approved
+getting-started-docker | SylviaBABY | sijia-w | Approved
+getting-started-clients | SylviaBABY | sijia-w | Approved
+schema-get-started | SylviaBABY | sijia-w | Approved
+schema-understand | SylviaBABY | sijia-w | Approved
+schema-evolution-compatibility | SylviaBABY | sijia-w | Approved
+schema-manage | SylviaBABY | sijia-w | Approved
 functions-overview | SylviaBABY | | In Progress
 functions-worker | SylviaBABY | | In Progress
 functions-runtime | SylviaBABY | | In Progress
 functions-develop | SylviaBABY | | In Progress
-functions-debug | SylviaBABY | | In Progress
+functions-debug | SylviaBABY | sijia-w | Approved
 functions-deploy | SylviaBABY | | In Progress
-functions-cli | SylviaBABY | | In Progress
+functions-cli | SylviaBABY | sijia-w | Approved
 io-overview | | | To Do
 io-quickstart (Correspond 'Get started') | | | To Do
 io-use | | | To Do
@@ -66,14 +67,14 @@ io-cli | | | To Do
 io-aerospike-sink | | | To Do
 io-canal-source | | | To Do
 io-cassandra-sink | | | To Do
-io-cdc-canal | | | To Do
+io-cdc-canal | | | Deprecated
 io-cdc-debezium | | | To Do
 io-debezium-source | | | To Do
 io-elasticsearch-sink | | | To Do
 io-file-source | | | To Do
 io-flume-sink | | | To Do
 io-flume-source | | | To Do
-io-hbase | | | To Do
+io-hbase | | | Deprecated
 io-hdfs2-sink | | | To Do
 io-hdfs3-sink | | | To Do
 io-influxdb-sink | | | To Do
