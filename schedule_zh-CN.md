@@ -49,23 +49,23 @@ schema-get-started | SylviaBABY | sijia-w | Approved
 schema-understand | SylviaBABY | sijia-w | Approved
 schema-evolution-compatibility | SylviaBABY | sijia-w | Approved
 schema-manage | SylviaBABY | sijia-w | Approved
-functions-overview | SylviaBABY | | In Progress
-functions-worker | SylviaBABY | | In Progress
+functions-overview | SylviaBABY | sijia-w | Approved
+functions-worker | sijia-w | sijia-w | Approved
 functions-runtime | SylviaBABY | | In Progress
-functions-develop | SylviaBABY | | In Progress
+functions-develop | sijia-w | sijia-w | Approved
 functions-debug | SylviaBABY | sijia-w | Approved
-functions-deploy | SylviaBABY | | In Progress
+functions-deploy | sijia-w | sijia-w | Approved
 functions-cli | SylviaBABY | sijia-w | Approved
 io-overview | | | To Do
 io-quickstart (Correspond 'Get started') | | | To Do
 io-use | | | To Do
 io-debug | | | To Do
-io-connectors | SylviaBABY | | In Progress
-io-cdc | SylviaBABY | | In Progress
-io-develop | | | To Do
+io-connectors | SylviaBABY | sijia-w | Approved
+io-cdc | SylviaBABY | sijia-w | Approved
+io-develop | sijia-w | | Translated
 io-cli | | | To Do
 io-aerospike-sink | | | To Do
-io-canal-source | | | To Do
+io-canal-source | sijia-w | | Translated
 io-cassandra-sink | | | To Do
 io-cdc-canal | | | Deprecated
 io-cdc-debezium | | | To Do
