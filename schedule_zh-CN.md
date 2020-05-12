@@ -11,7 +11,7 @@ adaptors-spark | | | To Do
 adaptors-storm | | | To Do
 admin-api-brokers | | | To Do
 admin-api-clusters | | | To Do
-admin-api-functions | | | To Do
+admin-api-functions | Omega-Ariston| | In Progress
 admin-api-namespaces | | | To Do
 admin-api-non-partitioned-topics | | | To Do
 admin-api-non-persistent-topics | liyiming2002 | | Translated
@@ -21,12 +21,12 @@ admin-api-permissions | liyiming 2002 |  | Translated
 admin-api-persistent-topics | | | To Do
 admin-api-schemas | | | To Do
 admin-api-tenants | | | To Do
-administration-dashboard | | | To Do
+administration-dashboard | Omega-Ariston | | In Progress
 administration-geo | | | To Do
 administration-load-balance | bilahepan(Tianci Gao) | | In Progress
 administration-proxy | bilahepan(Tianci Gao) | Jennifer Huang | Approved
-administration-pulsar-manager | | | To Do
-administration-stats | | | To Do
+administration-pulsar-manager | Omega-Ariston | | In Progress
+administration-stats | Omega-Ariston | | In Progress
 administration-upgrade | | | To Do
 administration-zk-bk | | | To Do
 admin-load-distribution | bilahepan(Tianci Gao) | | Deprecated
