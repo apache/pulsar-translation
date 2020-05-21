@@ -6,66 +6,66 @@
 
 Topic | Translator | Reviewer | Status 
 :-----|:-----------|:---------|:------
-adaptors-kafka | | | To Do
-adaptors-spark | | | To Do
-adaptors-storm | | | To Do
-admin-api-brokers | | | To Do
-admin-api-clusters | | | To Do
-admin-api-functions | | | To Do
-admin-api-namespaces | | | To Do
-admin-api-non-partitioned-topics | | | To Do
+adaptors-kafka | Jia Zhai & Susan97 & Jennifer & Shipei Huang & Forbidden | | Translated
+adaptors-spark | Jia Zhai & Ruihuan Wang & Jennifer | Jia Zhai | Approved
+adaptors-storm | Ruihuan Wang & Jennifer | | Translated
+admin-api-brokers | liyiming2002 | | Translated
+admin-api-clusters | liyiming2002 | | Translated
+admin-api-functions | Jiechuan Chen | | Translated
+admin-api-namespaces | Xiangyu Sun & kuangye098 | | To Do
+admin-api-non-partitioned-topics | Kevin Ma | | Translated
 admin-api-non-persistent-topics | liyiming2002 | | Translated
-admin-api-overview | | | To Do
+admin-api-overview | coxapp | Sijie Guo | Approved
 admin-api-partitioned-topics | bilahepan(Tianci Gao) | Jennifer Huang | Approved 
 admin-api-permissions | liyiming 2002 |  | Translated
-admin-api-persistent-topics | | | To Do
-admin-api-schemas | | | To Do
-admin-api-tenants | | | To Do
-administration-dashboard | | | To Do
-administration-geo | | | To Do
-administration-load-balance | bilahepan(Tianci Gao) | | In Progress
-administration-proxy | bilahepan(Tianci Gao) | Jennifer Huang | Approved
-administration-pulsar-manager | | | To Do
-administration-stats | | | To Do
-administration-upgrade | | | To Do
-administration-zk-bk | | | To Do
+admin-api-persistent-topics | liyiming2002 | | Translated
+admin-api-schemas | liyiming2002 | sijia-w | Approved
+admin-api-tenants | liyiming2002 | | Translated
+administration-dashboard | Jiechuan Chen | | Translated
+administration-geo | xuefei wei | | Translated
+administration-load-balance | Wuwenliang & futeng| | Translated
+administration-proxy | bilahepan(Tianci Gao) & bilahepan | Jennifer Huang | Translated
+administration-pulsar-manager | Jiechuan Chen | | Translated
+administration-stats | Jiechuan Chen| | Translated
+administration-upgrade | July-liu | | Translated
+administration-zk-bk | futeng | | Translated
 admin-load-distribution | bilahepan(Tianci Gao) | | Deprecated
 client-libraries-cgo | | | To Do
-client-libraries-cpp | liyiming2002 | | In Progress
-client-libraries-go | liyiming2002 | | In Progress
-client-libraries-java | liyiming2002 | | In Progress
+client-libraries-cpp | Lewinma | | Translated
+client-libraries-go | z2665 | | Translated
+client-libraries-java | WJL3333 & coxapp | | Translated
 client-libraries-node | | | To Do
 client-libraries-python | Bu Xing & Francis Du & liyiming2002 | | Translated
 client-libraries-websocket | Francis Du & liyiming2002 | | Translated
-concepts-architecture-overview | | | To Do
-concepts-authentication | | | To Do
-concepts-clients | | | To Do
-concepts-messaging | liyiming 2002 | | Translated
-concepts-multi-tenancy | | | To Do
-concepts-overview | | | To Do
-concepts-replication | | | To Do
-concepts-schema-registry | | | To Do
-concepts-tiered-storage | | | To Do
-concepts-topic-compaction | | | To Do
-cookbooks-bookkeepermetadata | bilahepan(Tianci Gao) | | In Progress
+concepts-architecture-overview | Jia Zhai & HashZhang & yony228 & li samdy| | Translated
+concepts-authentication | liyiming2002 & futeng| | Translated
+concepts-clients | Zongyang & futeng| | Translated
+concepts-messaging | liyiming 2002 & futeng | | Translated
+concepts-multi-tenancy | futeng & liyiming2002 | | Translated
+concepts-overview | futeng & wen.spider & Jiechuan Chen| | Translated
+concepts-replication | coxapp | | Translated
+concepts-schema-registry | liyiming2002 | sijia-w | Approved
+concepts-tiered-storage | liyiming2002 & futeng & wen.spider| | Translated
+concepts-topic-compaction | liyiming2002 | | Translated
+cookbooks-bookkeepermetadata | sijia-w | | Translated
 cookbooks-compaction | | | To Do
 cookbooks-deduplication | bilahepan(Tianci Gao) | | In Progress
-cookbooks-encryption | | | To Do
+cookbooks-encryption | z2665 | | Translated
 cookbooks-message-queue | bilahepan(Tianci Gao) & Ying Zhan | Susan97 | Approved
-bookbooks-non-persistent | | | To Do
+bookbooks-non-persistent | bilahepan(Tianci Gao)| | Translated
 cookbooks-partitioned | bilahepan(Tianci Gao) | Jennifer Huang | Approved 
 cookbooks-retention-expiry | bilahepan(Tianci Gao) | | Translated
 cookbooks-tiered-storage | | | To Do
 deploy-aws | | | To Do
-deploy-bare-metal-multi-cluster | | | To Do
-deploy-bare-metal | bilahepan(Tianci Gao) | | Translated
-deploy-dcos | | | To Do
-deploy-kubernetes | KarenGirl | | In Progress 
+deploy-bare-metal-multi-cluster | Kun Song & SongWang & bilahepan | | Translated
+deploy-bare-metal | bilahepan(Tianci Gao) & Jennifer | Jennifer | Approved
+deploy-dcos | foundworld | sijia-w | Approved
+deploy-kubernetes | KarenGirl | sijia-w | Approved 
 deploy-monitoring | bilahepan(Tianci Gao) | | In Progress
 developing-binary-protocol | | | To Do
-developing-cpp | | | To Do
+developing-cpp | lizhengping | | Translated
 developing-load-manager | | | To Do
-developing tools | Susan97 | | In Progress
+developing tools | futeng | | Translated
 functions-api | Luke(ete0918) | | Removed by candler
 functions-cli | SylviaBABY | sijia-w | Approved
 functions-debug | SylviaBABY | sijia-w | Approved
@@ -92,79 +92,79 @@ helm-overview | | | To Do
 helm-prepare | | | To Do
 helm-tools | | | To Do
 helm-upgrade | | | To Do
-io-aerospike-sink | | | To Do
+io-aerospike-sink | SylviaBABY | | Translated
 io-aerospike | | | To Do
 io-canal-source | sijia-w | | Translated
-io-cassandra-sink | | | To Do
+io-cassandra-sink | SylviaBABY | | Translated
 io-cassandra | | | To Do
 io-cdc-canal | | | Deprecated
-io-cdc-debezium | | | To Do
+io-cdc-debezium | SylviaBABY | | Translated
 io-cdc | SylviaBABY | sijia-w | Approved
-io-cli | | | To Do
+io-cli | SylviaBABY | sijia-w | Approved
 io-connectors | SylviaBABY | sijia-w | Approved
-io-debezium-source | | | To Do
-io-debug | | | To Do
+io-debezium-source | SylviaBABY | | Translated
+io-debug | SylviaBABY | | Translated
 io-develop | sijia-w | | Translated
-io-elasticsearch-sink | | | To Do
+io-elasticsearch-sink | Kevin Ma | | Translated
 io-elasticsearch | | | To Do
-io-file-source | | | To Do
+io-file-source | SylviaBABY | | Translated
 io-file | Bu Xing | | In Progress
-io-flume-sink | | | To Do
-io-flume-source | | | To Do
+io-flume-sink | SylviaBABY | | Translated
+io-flume-source | SylviaBABY | | Translated
 io-hbase-sink | | | To Do
 io-hbase | Bu Xing | | Deprecated
 io-hdfs | Bu Xing | | Deprecated
-io-hdfs2-sink | | | To Do
-io-hdfs3-sink | | | To Do
-io-influxdb-sink | | | To Do
+io-hdfs2-sink | SylviaBABY | | Translated
+io-hdfs3-sink | SylviaBABY | | Translated
+io-influxdb-sink | SylviaBABY | | Translated
 io-influxdb | | | To Do
-io-jdbc-sink | | | To Do
+io-jdbc-sink | SylviaBABY | | Translated
 io-jdbc | | | To Do
-io-kafka-sink | | | To Do
-io-kafka-source | | | To Do
+io-kafka-sink | SylviaBABY | | Translated
+io-kafka-source | SylviaBABY | | Translated
 io-kafka | KarenGirl | | Deprecated
-io-kinesis-sink | | | To Do
-io-kinesis-source | | | To Do
+io-kinesis-sink | SylviaBABY | | Translated
+io-kinesis-source | SylviaBABY | | Translated
 io-kinesis | | | To Do
-io-mongo-sink | | | To Do
+io-mongo-sink | SylviaBABY | | Translated
 io-mongo | | | To Do
-io-netty-source | | | To Do
+io-netty-source | SylviaBABY | | Translated
 io-netty | Bu Xing | | Deprecated
-io-overview | | | To Do
+io-overview | hlight & sijia-w | | Translated
 io-quickstart (Correspond 'Get started') | | | To Do
-io-rabbitmq-sink | | | To Do
-io-rabbitmq-source | | | To Do
+io-rabbitmq-sink | SylviaBABY | | Translated
+io-rabbitmq-source | SylviaBABY | | Translated
 io-rabbitmq | Bu Xing | | Deprecated
-io-redis-sink | | | To Do
+io-redis-sink | SylviaBABY | | Translated
 io-redis | Bu Xing | | Deprecated
-io-solr-sink | | | To Do
+io-solr-sink | SylviaBABY | | Translated
 io-solr | Bu Xing | | Deprecated
 io-tcp | Bu Xing | | Deprecated
-io-twitter-source | | | To Do
+io-twitter-source | SylviaBABY | | Translated
 io-twitter | | | Deprecated
-io-use | | | To Do
+io-use | SylviaBABY | | Translated
 reference-cli-tools | | | To Do
 reference-configuration | | | To Do
 reference-connector-admin | | | To Do
 reference-metrics | | | To Do
 reference-pulsar-admin | | | To Do
-reference-terminology | | | To Do
+reference-terminology | Jia Zhai | Jia Zhai | Approved
 schema-evolution-compatibility | SylviaBABY | sijia-w | Approved
 schema-get-started | SylviaBABY | sijia-w | Approved
 schema-manage | SylviaBABY | sijia-w | Approved
 schema-understand | SylviaBABY | sijia-w | Approved
-security-athenz | | | To Do
+security-athenz | SylviaBABY | | Translated
 security-authorization | | | To Do
 security-bouncy-castle | | | To Do
 security-encryption | | | To Do
 security-extending | bilahepan(Tianci Gao) | | In Progress
-security-jwt | | | To Do
-security-kerberos | | | To Do
-security-overview | | | To Do
-security-tls-authentication | | | To Do
-security-tls-transport | | | To Do
+security-jwt | futeng | | Translated
+security-kerberos | futeng | | Translated
+security-overview | SylviaBABY & futeng| | Translated
+security-tls-authentication | SylviaBABY | | Translated
+security-tls-transport | futeng | | Translated
 security-token-admin | | | To Do
-sql-deployment-configurations | | | To Do
-sql-getting-started | | | To Do
-sql-overview | | | To Do
-sql-rest-api | | | To Do
+sql-deployment-configurations | SylviaBABY | | Translated
+sql-getting-started | SylviaBABY | | Translated
+sql-overview | SylviaBABY | | Translated
+sql-rest-api | SylviaBABY | | Translated
