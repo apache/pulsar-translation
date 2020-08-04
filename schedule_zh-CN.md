@@ -34,7 +34,7 @@ client-libraries-cgo | | | To Do
 client-libraries-cpp | Lewinma | | Translated
 client-libraries-go | z2665 | | Translated
 client-libraries-java | WJL3333 & coxapp | | Translated
-client-libraries-node | | | To Do
+client-libraries-node | Jiechuan Chen | | Translated
 client-libraries-python | Bu Xing & Francis Du & liyiming2002 | | Translated
 client-libraries-websocket | Francis Du & liyiming2002 | | Translated
 concepts-architecture-overview | Jia Zhai & HashZhang & yony228 & li samdy| | Translated
@@ -48,7 +48,7 @@ concepts-schema-registry | liyiming2002 | sijia-w | Approved
 concepts-tiered-storage | liyiming2002 & futeng & wen.spider| | Translated
 concepts-topic-compaction | liyiming2002 | | Translated
 cookbooks-bookkeepermetadata | sijia-w | | Translated
-cookbooks-compaction | | | To Do
+cookbooks-compaction | Jiechuan Chen | | Translated
 cookbooks-deduplication | bilahepan(Tianci Gao) | | In Progress
 cookbooks-encryption | z2665 | | Translated
 cookbooks-message-queue | bilahepan(Tianci Gao) & Ying Zhan | Susan97 | Approved
@@ -83,7 +83,7 @@ functions-worker | sijia-w | sijia-w | Approved
 getting-started-clients | SylviaBABY | sijia-w | Approved
 getting-started-concepts-and-architecture | | | To Do
 getting-started-docker | SylviaBABY | sijia-w | Approved
-getting-started-helm | | | To Do
+getting-started-helm | Jiechuan Chen | | Translated
 getting-started-pulsar |  | sijia-w | Approved
 getting-started-standalone (Correspond 'Run Pulsar locally') | | sijia-w | Approved
 helm-deploy | | | To Do
