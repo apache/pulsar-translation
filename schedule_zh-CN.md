@@ -143,11 +143,11 @@ io-tcp | Bu Xing | | Deprecated
 io-twitter-source | SylviaBABY | | Translated
 io-twitter | | | Deprecated
 io-use | SylviaBABY | | Translated
-reference-cli-tools | | | To Do
-reference-configuration | | | To Do
-reference-connector-admin | | | To Do
-reference-metrics | | | To Do
-reference-pulsar-admin | | | To Do
+reference-cli-tools | Jiechuan Chen | | Translated
+reference-configuration | Jiechuan Chen | | Translated
+reference-connector-admin | Jiechuan Chen | | Translated
+reference-metrics | Jiechuan Chen | | Translated
+reference-pulsar-admin | Jiechuan Chen | | Translated
 reference-terminology | Jia Zhai | Jia Zhai | Approved
 schema-evolution-compatibility | SylviaBABY | sijia-w | Approved
 schema-get-started | SylviaBABY | sijia-w | Approved
