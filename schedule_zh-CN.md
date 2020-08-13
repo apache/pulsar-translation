@@ -154,9 +154,9 @@ schema-get-started | SylviaBABY | sijia-w | Approved
 schema-manage | SylviaBABY | sijia-w | Approved
 schema-understand | SylviaBABY | sijia-w | Approved
 security-athenz | SylviaBABY | | Translated
-security-authorization | | | To Do
-security-bouncy-castle | | | To Do
-security-encryption | | | To Do
+security-authorization | Jiechuan Chen | | Translated
+security-bouncy-castle | Jiechuan Chen | | Translated
+security-encryption | Jiechuan Chen | | Translated
 security-extending | bilahepan(Tianci Gao) | | In Progress
 security-jwt | futeng | | Translated
 security-kerberos | futeng | | Translated
