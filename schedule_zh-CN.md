@@ -14,7 +14,7 @@ admin-api-clusters | liyiming2002 | sijia-w | Approved
 admin-api-functions | Jiechuan Chen | sijia-w | Approved
 admin-api-namespaces | Xiangyu Sun & kuangye098 | sijia-w | Approved
 admin-api-non-partitioned-topics | Kevin Ma | | Translated
-admin-api-non-persistent-topics | liyiming2002 | | Translated
+admin-api-non-persistent-topics | liyiming2002 | sijia-w | Approved
 admin-api-overview | coxapp | Sijie Guo | Approved
 admin-api-partitioned-topics | bilahepan(Tianci Gao) | Jennifer Huang | Approved 
 admin-api-permissions | liyiming 2002 | sijia-w | Approved
@@ -25,7 +25,7 @@ administration-dashboard | Jiechuan Chen | sijia-w | Approved
 administration-geo | xuefei wei | | Translated
 administration-load-balance | Wuwenliang & futeng| | Translated
 administration-proxy | bilahepan(Tianci Gao) & bilahepan | Jennifer Huang | Translated
-administration-pulsar-manager | Jiechuan Chen | | Translated
+administration-pulsar-manager | Jiechuan Chen | sijia-w | Approved
 administration-stats | Jiechuan Chen| sijia-w | Approved
 administration-upgrade | July-liu | | Translated
 administration-zk-bk | futeng | | Translated
@@ -34,16 +34,16 @@ client-libraries-cgo | | | To Do
 client-libraries-cpp | Lewinma | | Translated
 client-libraries-go | z2665 | | Translated
 client-libraries-java | WJL3333 & coxapp | | Translated
-client-libraries-node | Jiechuan Chen | | Translated
+client-libraries-node | Jiechuan Chen | sijia-w | Approved
 client-libraries-python | Bu Xing & Francis Du & liyiming2002 | | Translated
-client-libraries-websocket | Francis Du & liyiming2002 | | Translated
+client-libraries-websocket | Francis Du & liyiming2002 | sijia-w | Approved
 concepts-architecture-overview | Jia Zhai & HashZhang & yony228 & li samdy| | Translated
 concepts-authentication | liyiming2002 & futeng| sijia-w | Approved
 concepts-clients | Zongyang & futeng| | Translated
 concepts-messaging | liyiming 2002 & futeng | | Translated
 concepts-multi-tenancy | futeng & liyiming2002 | sijia-w | Approved
 concepts-overview | futeng & wen.spider & Jiechuan Chen| sijia-w | Approved
-concepts-replication | coxapp | | Translated
+concepts-replication | coxapp | sijia-w | Approved
 concepts-schema-registry | liyiming2002 | sijia-w | Approved
 concepts-tiered-storage | liyiming2002 & futeng & wen.spider| | Translated
 concepts-topic-compaction | liyiming2002 | | Translated
@@ -106,7 +106,7 @@ io-debezium-source | SylviaBABY | | Translated
 io-debug | SylviaBABY | | Translated
 io-develop | sijia-w | sijia-w | Approved
 io-elasticsearch-sink | Kevin Ma | | Translated
-io-elasticsearch | | | To Do
+io-elasticsearch | | | Empty
 io-file-source | SylviaBABY | | Translated
 io-file | Bu Xing | | In Progress
 io-flume-sink | SylviaBABY | | Translated
@@ -119,11 +119,11 @@ io-hdfs3-sink | SylviaBABY | | Translated
 io-influxdb-sink | SylviaBABY | | Translated
 io-influxdb | | | To Do
 io-jdbc-sink | SylviaBABY | | Translated
-io-jdbc | | | To Do
+io-jdbc | | | Empty
 io-kafka-sink | SylviaBABY | | Translated
 io-kafka-source | SylviaBABY | | Translated
 io-kafka | KarenGirl | | Deprecated
-io-kinesis-sink | SylviaBABY | | Translated
+io-kinesis-sink | SylviaBABY | sijia-w | Approved
 io-kinesis-source | SylviaBABY | | Translated
 io-kinesis | | | To Do
 io-mongo-sink | SylviaBABY | | Translated
