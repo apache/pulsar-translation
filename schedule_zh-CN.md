@@ -44,7 +44,7 @@ concepts-authentication | liyiming2002 & futeng| sijia-w | Approved
 concepts-clients | Zongyang & futeng| | Translated
 concepts-messaging | liyiming 2002 & futeng | | Translated
 concepts-multi-tenancy | futeng & liyiming2002 | sijia-w | Approved
-concepts-multiple-advertised-listeners | | | To Do
+concepts-multiple-advertised-listeners | lobo xu| sijia-w | Approved
 concepts-overview | futeng & wen.spider & Jiechuan Chen| sijia-w | Approved
 concepts-proxy-sni-routing | | | To Do
 concepts-replication | coxapp | sijia-w | Approved
