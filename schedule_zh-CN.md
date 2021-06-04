@@ -174,7 +174,7 @@ sql-getting-started | SylviaBABY | | Translated
 sql-overview | SylviaBABY | | Translated
 sql-rest-api | SylviaBABY | | Translated
 tiered-storage-overview | zzy | | To Do
-tiered-storage-aws | | | To Do
+tiered-storage-aws | ericsyh | | To Do
 tiered-storage-azure | | | To Do
 tiered-storage-filesystem | | | To Do
 tiered-storage-gcs | | | To Do
