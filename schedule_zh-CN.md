@@ -178,7 +178,6 @@ tiered-storage-aws | | | To Do
 tiered-storage-azure | | | To Do
 tiered-storage-filesystem | | | To Do
 tiered-storage-gcs | | | To Do
-tiered-storage-overview | | | To Do
 transaction-api | | | To Do
 transaction-guarantee | | | To Do
 window-functions-context | | | To Do
