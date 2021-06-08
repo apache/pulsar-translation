@@ -108,14 +108,14 @@ io-cli | SylviaBABY | sijia-w | Approved
 io-connectors | SylviaBABY | sijia-w | Approved
 io-debezium-source | SylviaBABY | | Translated
 io-debug | SylviaBABY | | Translated
-io-develop | sijia-w | sijia-w | Approved
+io-develop | sijia-w & xxwinnie | sijia-w | Approved
 io-elasticsearch-sink | Kevin Ma | | Translated
 io-elasticsearch | | | Empty
 io-file-source | SylviaBABY | | Translated
 io-file | Bu Xing | | In Progress
 io-flume-sink | SylviaBABY | | Translated
 io-flume-source | SylviaBABY | | Translated
-io-hbase-sink | | | To Do
+io-hbase-sink | xxwinnie | | To Do
 io-hbase | Bu Xing | | Deprecated
 io-hdfs | Bu Xing | | Deprecated
 io-hdfs2-sink | SylviaBABY | | Translated
