@@ -95,7 +95,7 @@ helm-install | | | To Do
 helm-overview | | | To Do
 helm-prepare | | | To Do
 helm-tools | | | To Do
-helm-upgrade | | | To Do
+helm-upgrade | hapihu |  | Translated 
 io-aerospike-sink | SylviaBABY | | Translated
 io-aerospike | | | To Do
 io-canal-source | sijia-w | | Translated
