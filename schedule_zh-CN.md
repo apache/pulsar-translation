@@ -130,7 +130,7 @@ io-kafka | KarenGirl | | Deprecated
 io-kinesis-sink | SylviaBABY | sijia-w | Approved
 io-kinesis-source | SylviaBABY | | Translated
 io-kinesis | | | To Do
-io-managing | mrcangye | |In progress
+io-managing | mrcangye | | Translated
 io-mongo-sink | SylviaBABY | | Translated
 io-mongo | | | To Do
 io-netty-source | SylviaBABY | | Translated
