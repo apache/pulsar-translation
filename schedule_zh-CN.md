@@ -30,7 +30,7 @@ administration-stats | Jiechuan Chen| sijia-w | Approved
 administration-upgrade | July-liu | sijia-w | Approved
 administration-zk-bk | futeng | | Translated
 admin-load-distribution | bilahepan(Tianci Gao) | | Deprecated
-client-libraries-cgo | | | To Do
+client-libraries-cgo | bjtuchenmin | | Translated
 client-libraries-cpp | Lewinma | | Translated
 client-libraries-donet | | | To Do
 client-libraries-dotnet | | | To Do
