@@ -153,7 +153,7 @@ reference-configuration | Jiechuan Chen | | Translated
 reference-connector-admin | Jiechuan Chen | | Translated
 reference-metrics | Jiechuan Chen | | Translated
 reference-pulsar-admin | Jiechuan Chen | | Translated
-reference-terminology | Jia Zhai | Jia Zhai & sijia-w | Approved
+reference-terminology | Jia Zhai & Lobo Xu | Jia Zhai | Approved
 schema-evolution-compatibility | SylviaBABY | sijia-w | Approved
 schema-get-started | SylviaBABY | sijia-w | Approved
 schema-manage | SylviaBABY | sijia-w | Approved
