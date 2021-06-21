@@ -6,10 +6,10 @@
 
 Topic | Translator | Reviewer | Status 
 :-----|:-----------|:---------|:------
-adaptors-kafka | Jia Zhai & Susan97 & Jennifer & Shipei Huang & Forbidden | | Translated
+adaptors-kafka | Jia Zhai & Susan97 & Jennifer & Shipei Huang & Forbidden | sijia-w | Approved
 adaptors-spark | Jia Zhai & Ruihuan Wang & Jennifer | Jia Zhai | Approved
 adaptors-storm | Ruihuan Wang & Jennifer | | Translated
-admin-api-brokers | liyiming2002 | | Translated
+admin-api-brokers | liyiming2002 | sijia-w | Approved
 admin-api-clusters | liyiming2002 | sijia-w | Approved
 admin-api-functions | Jiechuan Chen | sijia-w | Approved
 admin-api-namespaces | Xiangyu Sun & kuangye098 | sijia-w | Approved
@@ -24,14 +24,16 @@ admin-api-tenants | liyiming2002 | sijia-w | Approved
 administration-dashboard | Jiechuan Chen | sijia-w | Approved
 administration-geo | xuefei wei | | Translated
 administration-load-balance | Wuwenliang & futeng| | Translated
-administration-proxy | bilahepan(Tianci Gao) & bilahepan | Jennifer Huang | Translated
+administration-proxy | bilahepan(Tianci Gao) & bilahepan | Jennifer Huang & sijia-w | Approved
 administration-pulsar-manager | Jiechuan Chen | sijia-w | Approved
 administration-stats | Jiechuan Chen| sijia-w | Approved
-administration-upgrade | July-liu | | Translated
+administration-upgrade | July-liu | sijia-w | Approved
 administration-zk-bk | futeng | | Translated
 admin-load-distribution | bilahepan(Tianci Gao) | | Deprecated
 client-libraries-cgo | | | To Do
 client-libraries-cpp | Lewinma | | Translated
+client-libraries-donet | | | To Do
+client-libraries-dotnet | | | To Do
 client-libraries-go | z2665 | | Translated
 client-libraries-java | WJL3333 & coxapp | | Translated
 client-libraries-node | Jiechuan Chen | sijia-w | Approved
@@ -42,7 +44,9 @@ concepts-authentication | liyiming2002 & futeng| sijia-w | Approved
 concepts-clients | Zongyang & futeng| | Translated
 concepts-messaging | liyiming 2002 & futeng | | Translated
 concepts-multi-tenancy | futeng & liyiming2002 | sijia-w | Approved
+concepts-multiple-advertised-listeners | lobo xu| sijia-w | Approved
 concepts-overview | futeng & wen.spider & Jiechuan Chen| sijia-w | Approved
+concepts-proxy-sni-routing | | | To Do
 concepts-replication | coxapp | sijia-w | Approved
 concepts-schema-registry | liyiming2002 | sijia-w | Approved
 concepts-tiered-storage | liyiming2002 & futeng & wen.spider| | Translated
@@ -86,7 +90,7 @@ getting-started-docker | SylviaBABY | sijia-w | Approved
 getting-started-helm | Jiechuan Chen | | Translated
 getting-started-pulsar |  | sijia-w | Approved
 getting-started-standalone (Correspond 'Run Pulsar locally') | | sijia-w | Approved
-helm-deploy | | | To Do
+helm-deploy | cr7258 & bjtuchenmin | | In Progress
 helm-install | | | To Do
 helm-overview | | | To Do
 helm-prepare | | | To Do
@@ -143,6 +147,7 @@ io-tcp | Bu Xing | | Deprecated
 io-twitter-source | SylviaBABY | | Translated
 io-twitter | | | Deprecated
 io-use | SylviaBABY | | Translated
+performance-pulsar-perf | | | To Do
 reference-cli-tools | Jiechuan Chen | | Translated
 reference-configuration | Jiechuan Chen | | Translated
 reference-connector-admin | Jiechuan Chen | | Translated
@@ -168,3 +173,11 @@ sql-deployment-configurations | SylviaBABY | | Translated
 sql-getting-started | SylviaBABY | | Translated
 sql-overview | SylviaBABY | | Translated
 sql-rest-api | SylviaBABY | | Translated
+tiered-storage-overview | ericsyh | | Translated
+tiered-storage-aws | | | To Do
+tiered-storage-azure | | | To Do
+tiered-storage-filesystem | | | To Do
+tiered-storage-gcs | | | To Do
+transaction-api | | | To Do
+transaction-guarantee | | | To Do
+window-functions-context | | | To Do
