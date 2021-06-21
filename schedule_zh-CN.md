@@ -90,7 +90,7 @@ getting-started-docker | SylviaBABY | sijia-w | Approved
 getting-started-helm | Jiechuan Chen | | Translated
 getting-started-pulsar |  | sijia-w | Approved
 getting-started-standalone (Correspond 'Run Pulsar locally') | | sijia-w | Approved
-helm-deploy | | | To Do
+helm-deploy | cr7258 & bjtuchenmin | | In Progress
 helm-install | | | To Do
 helm-overview | | | To Do
 helm-prepare | | | To Do
