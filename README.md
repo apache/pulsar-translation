@@ -1,3 +1,11 @@
+## :warning: Project Archived :warning:
+
+[![development](https://img.shields.io/badge/development-halted-red.svg)](https://github.com/apache/pulsar/issues/17972)
+
+**This initiative is halted because no further contributor or maintainer is active to contributor to or shepherd it.**
+
+Still, transaltion of Pulsar document and content is welcome and desired. If you're willing to revive this initiative, feel free to send a proposal to the [dev mailing list](mailto:dev@pulsar.apache.org) ([subscribe](mailto:dev-subscribe@pulsar.apache.org)).
+
 # Translation workflow and guidelines
 
 Welcome to join the Pulsar translation project! Before translating, read translation [workflow](#workflow) and [guidelines](#guidelines).
