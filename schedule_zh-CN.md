@@ -7,15 +7,15 @@
 Topic | Translator | Reviewer | Status 
 :-----|:-----------|:---------|:------
 adaptors-kafka | Jia Zhai & Susan97 & Jennifer & Shipei Huang & Forbidden | sijia-w | Approved
-adaptors-spark | Jia Zhai & Ruihuan Wang & Jennifer | Jia Zhai | Approved
+adaptors-spark | Jia Zhai & Ruihuan Wang & Jennifer & anigkus | Jia Zhai | Translated
 adaptors-storm | Ruihuan Wang & Jennifer | | Translated
 admin-api-brokers | liyiming2002 | sijia-w | Approved
 admin-api-clusters | liyiming2002 | sijia-w | Approved
 admin-api-functions | Jiechuan Chen | sijia-w | Approved
-admin-api-namespaces | Xiangyu Sun & kuangye098 | sijia-w | Approved
+admin-api-namespaces | Xiangyu Sun & kuangye098  & anigkus | sijia-w | Translated
 admin-api-non-partitioned-topics | Kevin Ma | | Translated
 admin-api-non-persistent-topics | liyiming2002 | sijia-w | Approved
-admin-api-overview | coxapp | Sijie Guo | Approved
+admin-api-overview | coxapp & anigkus | Sijie Guo | Translated
 admin-api-partitioned-topics | bilahepan(Tianci Gao) | Jennifer Huang | Approved 
 admin-api-permissions | liyiming 2002 | sijia-w | Approved
 admin-api-persistent-topics | liyiming2002 | sijia-w | Approved
@@ -23,18 +23,18 @@ admin-api-schemas | liyiming2002 | sijia-w | Approved
 admin-api-tenants | liyiming2002 | sijia-w | Approved
 administration-dashboard | Jiechuan Chen | sijia-w | Approved
 administration-geo | xuefei wei | | Translated
-administration-load-balance | Wuwenliang & futeng| | Translated
-administration-proxy | bilahepan(Tianci Gao) & bilahepan | Jennifer Huang & sijia-w | Approved
-administration-pulsar-manager | Jiechuan Chen | sijia-w | Approved
+administration-load-balance | Wuwenliang & futeng & anigkus | | Translated
+administration-proxy | bilahepan(Tianci Gao) & bilahepan & anigkus | Jennifer Huang & sijia-w | Translated
+administration-pulsar-manager | Jiechuan Chen & anigkus | sijia-w | Translated
 administration-stats | Jiechuan Chen| sijia-w | Approved
 administration-upgrade | July-liu | sijia-w | Approved
-administration-zk-bk | futeng | | Translated
+administration-zk-bk | futeng & anigkus | | Translated
 admin-load-distribution | bilahepan(Tianci Gao) | | Deprecated
-client-libraries-cgo | bjtuchenmin | | Translated
-client-libraries-cpp | Lewinma | | Translated
+client-libraries-cgo | bjtuchenmin & anigkus | | Translated
+client-libraries-cpp | Lewinma & anigkus | | Translated
 client-libraries-donet | | | To Do
 client-libraries-dotnet | | | To Do
-client-libraries-go | z2665 | | Translated
+client-libraries-go | z2665 & anigkus | | Translated
 client-libraries-java | WJL3333 & coxapp | | Translated
 client-libraries-node | Jiechuan Chen | sijia-w | Approved
 client-libraries-python | Bu Xing & Francis Du & liyiming2002 | | Translated
@@ -42,7 +42,7 @@ client-libraries-websocket | Francis Du & liyiming2002 | sijia-w | Approved
 concepts-architecture-overview | Jia Zhai & HashZhang & yony228 & li samdy| | Translated
 concepts-authentication | liyiming2002 & futeng| sijia-w | Approved
 concepts-clients | Zongyang & futeng| | Translated
-concepts-messaging | liyiming 2002 & futeng | | Translated
+concepts-messaging | liyiming 2002 & futeng & anigkus | | Translated
 concepts-multi-tenancy | futeng & liyiming2002 | sijia-w | Approved
 concepts-multiple-advertised-listeners | lobo xu| sijia-w | Approved
 concepts-overview | futeng & wen.spider & Jiechuan Chen| sijia-w | Approved
